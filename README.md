@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente em treinamento
 - 🌱 Estudando React
-- ⚡ Curiosidades: Entusiasta de automobilismo e fã de The Legend of Zelda
+- ⚡ Entusiasta de automobilismo e fã de The Legend of Zelda
 
 <div>
   <a href="https://github.com/eliellds">
