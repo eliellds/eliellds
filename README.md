@@ -1,7 +1,7 @@
 ### Olá, tudo bem? 👋
 
 - 🔭 Atualmente em treinamento
-- 🌱 Estudando Java
+- 🌱 Estudando React
 - ⚡ Curiosidades: Entusiasta de automobilismo e fã de The Legend of Zelda
 
 <div>
@@ -16,7 +16,7 @@
   <img align="center" alt="Eli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Eli-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Eli-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Eli-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="Eli-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
   <img align="right" alt="Eli-Link" height="120" src="https://c.tenor.com/VNQFhH8IIFQAAAAM/link-thumbs-up.gif">
 </div>
