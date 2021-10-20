@@ -1,6 +1,6 @@
 ### Olá, tudo bem? 👋
 
-- 🔭 Atualmente em treinamento
+- 🔭 Atualmente em treinamento, desenvolvendo um e-commerce como projeto integrador
 - 🌱 Estudando <img align="center" alt="Eli-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 - ⚡ Entusiasta de automobilismo e fã de The Legend of Zelda <img align="center" alt="Eli-Zelda" height="30" src="https://seeklogo.com/images/T/the-legend-of-zelda-hyrulian-crest-logo-0EE3FC3E0B-seeklogo.com.png">
 
