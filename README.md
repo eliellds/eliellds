@@ -1,8 +1,8 @@
 ### Olá, tudo bem? 👋
 
 - 🔭 Atualmente em treinamento, desenvolvendo um e-commerce de antiguidades como projeto integrador
-- 🌱 Estudando JSF <img align="center" alt="Eli-JSF" height="30" width="30" src="https://avatars.githubusercontent.com/u/4238769?v=4">
-- ⚡ Entusiasta de automobilismo e fã de The Legend of Zelda <img align="center" alt="Eli-Zelda" height="30" src="https://seeklogo.com/images/T/the-legend-of-zelda-hyrulian-crest-logo-0EE3FC3E0B-seeklogo.com.png">
+- 🌱 Estudando JSF <img align="center" alt="Eli-JSF" height="30" width="30" src="https://avatars.githubusercontent.com/u/4238769?v=4"/>
+- ⚡ Entusiasta de automobilismo e fã de The Legend of Zelda <img align="center" alt="Eli-Zelda" height="30" src="https://seeklogo.com/images/T/the-legend-of-zelda-hyrulian-crest-logo-0EE3FC3E0B-seeklogo.com.png"/>
 
 <div>
   <a href="https://github.com/eliellds">
@@ -20,7 +20,7 @@
   <img align="center" alt="Eli-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   
 
-  <img align="right" alt="Eli-Link" height="120" src="https://c.tenor.com/VNQFhH8IIFQAAAAM/link-thumbs-up.gif">
+  <img align="right" alt="Eli-Link" height="120" src="https://c.tenor.com/VNQFhH8IIFQAAAAM/link-thumbs-up.gif"/>
 </div>
   
   ##
