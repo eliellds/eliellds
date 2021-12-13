@@ -1,7 +1,7 @@
 ### Olá, tudo bem? 👋
 
 - 🔭 Atualmente em treinamento, desenvolvendo um e-commerce de antiguidades como projeto integrador
-- 🌱 Estudando JSF <img align="center" alt="Eli-React" height="30" width="30" src="https://avatars.githubusercontent.com/u/4238769?v=4">
+- 🌱 Estudando JSF <img align="center" alt="Eli-JSF" height="30" width="30" src="https://avatars.githubusercontent.com/u/4238769?v=4">
 - ⚡ Entusiasta de automobilismo e fã de The Legend of Zelda <img align="center" alt="Eli-Zelda" height="30" src="https://seeklogo.com/images/T/the-legend-of-zelda-hyrulian-crest-logo-0EE3FC3E0B-seeklogo.com.png">
 
 <div>
