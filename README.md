@@ -1,7 +1,7 @@
 ### Olá, tudo bem? 👋
 
 - 🔭 Trabalhando como Desenvolvedor Junior
-- 🌱 Estudando TypeScript <img align="center" alt="Eli-TS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+- 🌱 Estudando Angular <img align="center" alt="Eli-TS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 - ⚡ Entusiasta de automobilismo e fã de The Legend of Zelda <img align="center" alt="Eli-Zelda" height="30" src="https://seeklogo.com/images/T/the-legend-of-zelda-hyrulian-crest-logo-0EE3FC3E0B-seeklogo.com.png"/>
 
 <div>
@@ -15,6 +15,7 @@
   <img align="center" alt="Eli-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>&nbsp
   <img align="center" alt="Eli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>&nbsp
   <img align="center" alt="Eli-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>&nbsp
+  <img align="center" alt="Eli-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp
   <img align="center" alt="Eli-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>&nbsp
   <img align="center" alt="Eli-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>&nbsp
   <img align="center" alt="Eli-MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>&nbsp
