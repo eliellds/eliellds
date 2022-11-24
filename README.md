@@ -1,7 +1,7 @@
 ### Hey, listen! 🧚
 
 - 🔭 Atualmente trabalho como Desenvolvedor Java Junior, mas com um carinho pelo Front-End
-- 🌱 Estudando Angular <img align="center" alt="Eli-TS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+- 🌱 Estudando Angular <img align="center" alt="Angular" title="Angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 - ⚡ Entusiasta de automobilismo e fã de The Legend of Zelda <img align="center" alt="Eli-Zelda" height="30" src="https://seeklogo.com/images/T/the-legend-of-zelda-hyrulian-crest-logo-0EE3FC3E0B-seeklogo.com.png"/>
 
 <div>
