@@ -24,7 +24,7 @@
   <img align="center" alt="Oracle" title="Oracle" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
   
 
-  <img align="right" alt="Eli-Link" height="120" src="https://c.tenor.com/VNQFhH8IIFQAAAAM/link-thumbs-up.gif"/>
+  <img align="right" alt="Eli-Link" height="120" src="https://i.ibb.co/FxSGBkn/Link.gif"/>
 </div>
   
   ##
