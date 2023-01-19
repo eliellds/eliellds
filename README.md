@@ -8,8 +8,8 @@ e Sass <img align="center" alt="Sass" title="Sass" height="30" width="30" src="h
 
 <div>
   <a href="https://github.com/eliellds">
-  <img height="180em" src="https://github-readme-stats-eliellds.vercel.app/api?username=eliellds&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eliellds.vercel.app/api/top-langs/?username=eliellds&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eliellds.vercel.app/api?username=eliellds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eliellds.vercel.app/api/top-langs/?username=eliellds&langs_count=8&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
