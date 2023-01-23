@@ -8,7 +8,7 @@ e SCSS <img align="center" alt="SCSS" title="SCSS" height="30" width="40" src="h
 
 <div>
   <a href="https://github.com/eliellds">
-  <img height="180em" src="https://github-readme-stats-eliellds.vercel.app/api?username=eliellds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eliellds.vercel.app/api?username=eliellds&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-eliellds.vercel.app/api/top-langs/?username=eliellds&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
   
