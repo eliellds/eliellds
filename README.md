@@ -8,7 +8,7 @@ e SCSS <img align="center" alt="SCSS" title="SCSS" height="30" width="40" src="h
 
 <div align="center">
   <a href="https://github.com/eliellds">
-  <img height="180em" src="https://github-readme-stats-eliellds.vercel.app/api?username=eliellds&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eliellds.vercel.app/api?username=eliellds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eliellds.vercel.app/api/top-langs/?username=eliellds&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
   
@@ -31,5 +31,5 @@ e SCSS <img align="center" alt="SCSS" title="SCSS" height="30" width="40" src="h
   ##
   
   <div>
-  <a href = "mailto:eliel.lds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:eliel.lds@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eliel-lopes-dos-santos-62273b13b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
