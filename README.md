@@ -1,4 +1,4 @@
-### Hey, listen! <img align="center" alt="Navy" title="Hey, listen!" height="30" src="https://i.ibb.co/cKB8KVT/Navi-Artwork.webp"/>
+### Hey! Listen! <img alt="Navi" title="Navi" height="40" src="https://i.ibb.co/pLncV9D/Navi-arte-Ocarina-of-Time-3-D.png"/>
 <img align="center" alt="Ghibli" width="100%" src="https://i.ibb.co/JcX7r3q/Ghibli.jpg"/>
 
 - 🔭 Atualmente trabalho como Desenvolvedor Java Junior, mas com um carinho pelo Front-End
@@ -25,7 +25,7 @@ e SCSS <img align="center" alt="SCSS" title="SCSS" height="30" width="40" src="h
   <img align="center" alt="Oracle" title="Oracle" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
   
 
-  <img align="right" alt="Eli-Link" height="120" src="https://i.ibb.co/FxSGBkn/Link.gif"/>
+  <img align="right" alt="Link" title="..." height="120" src="https://i.ibb.co/FxSGBkn/Link.gif"/>
 </div>
   
   ##
