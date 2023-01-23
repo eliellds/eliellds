@@ -6,7 +6,7 @@
 e SCSS <img align="center" alt="SCSS" title="SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 - ⚡ Apaixonado por ilustração, animações e fã de The Legend of Zelda
 
-<div>
+<div align="center">
   <a href="https://github.com/eliellds">
   <img height="180em" src="https://github-readme-stats-eliellds.vercel.app/api?username=eliellds&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-eliellds.vercel.app/api/top-langs/?username=eliellds&layout=compact&langs_count=8&theme=tokyonight"/>
