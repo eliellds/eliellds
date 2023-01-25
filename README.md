@@ -1,5 +1,5 @@
 ### Hey! Listen! <img alt="Navi" title="Navi" height="40" src="https://i.ibb.co/pLncV9D/Navi-arte-Ocarina-of-Time-3-D.png"/>
-<img align="center" alt="Ghibli" width="100%" src="https://i.ibb.co/JcX7r3q/Ghibli.jpg"/>
+<img align="center" alt="Studio Ghibli" width="100%" src="https://i.ibb.co/JcX7r3q/Ghibli.jpg"/>
 
 - 🔭 Atualmente trabalho como Desenvolvedor Java Junior, mas com um carinho pelo Front-End
 - 🌱 Estudando Angular <img align="center" alt="Angular" title="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> 
