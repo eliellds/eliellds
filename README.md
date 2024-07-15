@@ -1,6 +1,6 @@
 ### Hey! Listen! <img alt="Personagem Navi de The Legend of Zelda" title="Navi" height="40" src="https://i.ibb.co/pLncV9D/Navi-arte-Ocarina-of-Time-3-D.png"/>
 
-- 🔭 Atualmente trabalho como Desenvolvedor Java Junior, mas com um carinho pelo Front-End
+- 🔭 Atualmente trabalho como Desenvolvedor Fullstack Java/Angular
 - 🌱 Estudando Angular <img align="center" alt="Angular" title="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> 
 e SCSS <img align="center" alt="SCSS" title="SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 - ⚡ Apaixonado por ilustração, animações e fã de The Legend of Zelda
