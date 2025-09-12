@@ -1,7 +1,7 @@
 ### Hey! Listen! <img alt="Personagem Navi de The Legend of Zelda" title="Navi" height="40" src="https://i.ibb.co/pLncV9D/Navi-arte-Ocarina-of-Time-3-D.png"/>
 
 - 🔭 Atualmente trabalho como Desenvolvedor Fullstack Java/Angular
-- 🌱 Estudando Apache Kafka <img align="center" alt="Apache Kafka" title="Apache Kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" /> 
+- 🌱 Estudando Apache Kafka <img align="center" alt="Apache Kafka" title="Apache Kafka" height="30" width="40" src="https://devicon-website.vercel.app/api/apachekafka/original.svg?color=%2372C0E6" />
 - ⚡ Apaixonado por ilustração, animações e fã de The Legend of Zelda
 
 <div>
