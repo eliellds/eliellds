@@ -1,8 +1,7 @@
 ### Hey! Listen! <img alt="Personagem Navi de The Legend of Zelda" title="Navi" height="40" src="https://i.ibb.co/pLncV9D/Navi-arte-Ocarina-of-Time-3-D.png"/>
 
 - 🔭 Atualmente trabalho como Desenvolvedor Fullstack Java/Angular
-- 🌱 Estudando Angular <img align="center" alt="Angular" title="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> 
-e SCSS <img align="center" alt="SCSS" title="SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+- 🌱 Estudando Apache Kafka <img align="center" alt="Apache Kafka" title="Apache Kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" /> 
 - ⚡ Apaixonado por ilustração, animações e fã de The Legend of Zelda
 
 <div>
@@ -12,16 +11,17 @@ e SCSS <img align="center" alt="SCSS" title="SCSS" height="30" width="40" src="h
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp
-  <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&nbsp
-  <img align="center" alt="Bootstrap" title="Bootsrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>&nbsp
-  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>&nbsp
-  <img align="center" alt="React" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>&nbsp
-  <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp
   <img align="center" alt="Java" title="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>&nbsp
   <img align="center" alt="Spring Boot" title="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>&nbsp
-  <img align="center" alt="MySQL" title="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>&nbsp
-  <img align="center" alt="Oracle" title="Oracle" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+  <img align="center" alt="Oracle SQL" title="Oracle SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+  <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp
+  <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&nbsp
+  <img align="center" alt="SCSS" title="SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>&nbsp
+  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>&nbsp
+  <img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp
+  <img align="center" alt="Angular" title="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>&nbsp
+  <img align="center" alt="Angular Material" title="Angular Material" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg"/>&nbsp
+  
   
 
   <img align="right" alt="Personagem Link de The Legend of Zelda" title="..." height="120" src="https://i.ibb.co/FxSGBkn/Link.gif"/>
